@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+cookies.json
+
+# 日志与数据
+*.log
+*.db
+*.csv
+*.json
+
+# 开发工具
+.idea/
+.vscode/
